@@ -2,6 +2,16 @@
 
 ![Drawing](http://i.imgur.com/wDKdQ8a.jpg?1)
 
+## Solution
+
+Please make an attempt at this lab before viewing the solution. It's a challenge!
+
+You can type `git checkout solution` in terminal to be able to view the solution in your Xcode Project (note that you would then need to go back to the master branch by typing `git checkout master` if you did this). 
+
+You can also click this link [here](https://github.com/learn-co-curriculum/swift-dictionaryBillOrSteve-lab/blob/solution/BillOrSteve/ViewController.swift) to the view the solution in a browser. The solution branch and this link both include the extra credit.
+
+As well, you can watch the solution video here (note that the solution video doesn't include the extra credit).
+
 ## Overview
 
 This lab encompasses the full use of dictionaries and accessing elements within a dictionary.
