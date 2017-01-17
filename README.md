@@ -10,7 +10,9 @@ You can type `git checkout solution` in terminal to be able to view the solution
 
 You can also click this link [here](https://github.com/learn-co-curriculum/swift-dictionaryBillOrSteve-lab/blob/solution/BillOrSteve/ViewController.swift) to the view the solution in a browser. The solution branch and this link both include the extra credit.
 
-As well, you can watch the solution video here (note that the solution video doesn't include the extra credit).
+As well, you can watch the solution video (note that the solution video doesn't include the extra credit).
+
+[![Solution](http://img.youtube.com/vi/UEJrwr0GIWA/0.jpg)](https://www.youtube.com/watch?v=UEJrwr0GIWA "Solution")
 
 ## Overview
 
